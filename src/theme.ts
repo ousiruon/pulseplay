@@ -19,7 +19,7 @@ const theme = extendTheme({
             800: '#121212',
             900: '#111'
         },
-        white: '#FFD7C4'
+        white: '#ffffff'
     }
 });
 export default theme;
