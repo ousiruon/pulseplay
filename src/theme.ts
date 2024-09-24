@@ -18,8 +18,7 @@ const theme = extendTheme({
             700: '#202020',
             800: '#121212',
             900: '#111'
-        },
-        white: '#ffffff'
+        }
     }
 });
 export default theme;
